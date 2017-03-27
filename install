@@ -22,7 +22,7 @@ rm -rf /bin/redefinirusuario 2>/dev/null
 wget -o /dev/null -O- https://raw.githubusercontent.com/RicKbrL/VpsPack/master/redefinirusuario > /bin/redefinirusuario
 chmod +x /bin/redefinirusuario
 rm -rf /bin/vpspack2 2>/dev/null
-wget -o /dev/null -O- https://raw.githubusercontent.com/RicKbrL/VpsPack/master/vpspack > /bin/vpspack
+wget -o /dev/null -O- https://raw.githubusercontent.com/rogerinhoj5/Vpspack3/master/vpspack2 > /bin/vpspack2
 chmod +x /bin/vpspack2
 rm -rf /bin/speedtest.py 2>/dev/null
 wget -o /dev/null -O- https://raw.githubusercontent.com/RicKbrL/VpsPack/master/speedtest.py > /bin/speedtest.py
